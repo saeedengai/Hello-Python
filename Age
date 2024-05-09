@@ -1,0 +1,2 @@
+A = input(int(what is your age?)
+print ("Ok your age is", A)
