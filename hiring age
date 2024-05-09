@@ -1,0 +1,6 @@
+def hiring_system():
+    A = input(enter your age)
+    if A > 18
+    print("you are hired")
+    else print("we are sorry)
+hiring_system()
